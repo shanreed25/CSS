@@ -59,12 +59,7 @@
 ### Basic CSS concepts 
 **Understanding these core concepts provides a strong foundation for writing effective and maintainable CSS**
 - Syntax
-    ```
-        h1 { /* Selector */
-        color: purple; /* Declaration: property-value pair */
-        font-size: 12px; /* a second declaration */
-        }
-    ```
+
 - Cascading
 - Inheritance
     - Some CSS properties, like color and font-family, are inherited by child elements from their parent elements. This means you can set a style once on a parent element, and its children will automatically adopt that style unless explicitly overridden.

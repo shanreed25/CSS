@@ -5,11 +5,21 @@
 
 ### Basic CSS concepts 
 **Understanding these core concepts provides a strong foundation for writing effective and maintainable CSS**
-- Syntax
-- Cascading
-- Inheritance
-    - Some CSS properties, like color and font-family, are inherited by child elements from their parent elements. This means you can set a style once on a parent element, and its children will automatically adopt that style unless explicitly overridden.
-- [Selectors](./Selectors.md)
-    - used to select the HTML elements you want to style
-- [The Box Model](./BoxModel.md)
-    - every HTML element is treated as a rectangular box and the box model describes the layout of these boxes
+- [Syntax](./Basics/Syntax.md)
+- [Cascading]()
+- [Selectors](./Basics/Selectors.md)
+- [The Box Model](./Basics/BoxModel.md)
+
+
+### Intermediate CSS Concepts
+- [Colors]()
+- [Specificity and Inheritance]()
+- [Box Model]()
+- [Flexbox]()
+- [CSS Grid]()
+- [Responsive Design and Media Queries]()
+- [Advanced Selectors]()
+- [Positioning]()
+- [Transitions and Animations]()
+- [CSS Variables (Custom Properties)]()
+- [Preprocessors]()
