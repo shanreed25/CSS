@@ -12,7 +12,8 @@
 
 
 ### Intermediate CSS Concepts
-- [Colors]()
+- [Colors](./Intermediate/Colors.md)
+- [Fonts](./Intermediate/Fonts.md)
 - [Specificity and Inheritance]()
 - [Box Model]()
 - [Flexbox]()
