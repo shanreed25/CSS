@@ -1,0 +1,14 @@
+    /*flexbox.html*/
+    /*1. Using flexbox to center the card in the vertical and horizontal center */
+    .flex-container {
+      display: flex;
+
+      /*aligns the flex items (the card) along the main axis (horizontally, by default) to the center*/
+      justify-content: center;
+
+      /*aligns the flex items (the card) along the cross axis (vertically, by default) to the center*/
+      align-items: center;
+      
+      /* set a height for the container to see vertical centering */
+      height: 100vh; /*full viewport height */
+    }
