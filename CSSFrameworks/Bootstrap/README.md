@@ -5,6 +5,7 @@
 # Key Features
 - **Responsive Design**
     - core feature is its responsive, mobile-first grid system, which allows websites to automatically adjust their layout and appearance to fit various screen sizes
+    - styles are designed for smaller screens first and then scaled up for larger devices using media queries. This ensures websites adapt seamlessly to various screen sizes and orientations.
 - **Pre-designed Components**
     - provides a collection of pre-styled HTML and CSS components, such as navigation bars, buttons, forms, carousels, modals, and more
     - saves developers time by eliminating the need to code these common elements from scratch.
@@ -21,3 +22,14 @@
 
 
 - Check out the [docs](https://getbootstrap.com/) for more info
+
+- [Grid System](./GridSystem/README.md) the core of Bootstrap's layout. It's a responsive, mobile-first grid that scales up to 12 columns as the device or viewport size increases
+
+- [CSS Components](./CSSComponents/README.md) for common UI elements that are pre-styled in a vast library 
+
+- [JavaScript Plugins](./JavaScriptPlugins/README.md) (often relying on jQuery) to add interactivity and dynamic behavior to components
+
+- [Customization]() can override default styles with custom CSS, utilize Sass variables for easier theme adjustments, or download customized builds from the official website.
+
+**By leveraging these fundamentals, developers can rapidly build consistent, responsive, and aesthetically pleasing web interfaces without writing extensive custom CSS and JavaScript from scratch.**
+
