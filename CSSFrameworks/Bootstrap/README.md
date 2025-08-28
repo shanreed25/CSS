@@ -1,7 +1,7 @@
 # [Bootstrap](https://getbootstrap.com/)
 - a free and open-source front-end framework
 - designed to simplify and accelerate the development of responsive, mobile-first websites
-
+- can override default styles with custom CSS, utilize Sass variables for easier theme adjustments, or download customized builds from the official website
 # Key Features
 - **Responsive Design**
     - core feature is its responsive, mobile-first grid system, which allows websites to automatically adjust their layout and appearance to fit various screen sizes
@@ -29,7 +29,7 @@
 
 - [JavaScript Plugins](./JavaScriptPlugins/README.md) (often relying on jQuery) to add interactivity and dynamic behavior to components
 
-- [Customization]() can override default styles with custom CSS, utilize Sass variables for easier theme adjustments, or download customized builds from the official website.
+- [Utility Classes](./UtilityClasses/README.md) predefined CSS classes provided by the Bootstrap framework that allow for the rapid application of common styles and layout adjustments to HTML elements without the need to write custom CSS
 
 **By leveraging these fundamentals, developers can rapidly build consistent, responsive, and aesthetically pleasing web interfaces without writing extensive custom CSS and JavaScript from scratch.**
 
