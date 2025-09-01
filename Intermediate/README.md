@@ -5,7 +5,7 @@ Intermediate CSS concepts build upon fundamental knowledge of selectors, propert
 - [Colors]()
 - [Specificity and Inheritance]()
     - A deeper understanding of how the browser determines which CSS rules apply when there are conflicting declarations, and how properties are inherited from parent elements to their children.
-- [Box Model]()
+- [Box Model](./BoxModel/README.md)
 - [Flexbox]()
     - a one-dimensional layout module that provides an efficient way to arrange and distribute space among items within a container, making it ideal for creating flexible and responsive navigation bars, content sections, and other components
 - [CSS Grid]()
@@ -21,7 +21,8 @@ Intermediate CSS concepts build upon fundamental knowledge of selectors, propert
     - CSS transitions enable smooth changes in property values over a specified duration, while animations provide more complex, multi-step visual effects using @keyframes rules.
 - [CSS Variables (Custom Properties)]()
     - Defining custom properties allows for the reuse of values throughout a stylesheet, improving maintainability and making it easier to manage themes, colors, and other design elements.
-
+- [Functions](./Functions.md)
+    - Are special values or constructs used within property declarations to perform calculations, transformations, or to represent specific data types. They allow for more dynamic and complex styling than static values alone
 - [Preprocessors]()
     - While not strictly CSS, preprocessors introduce features like variables, nesting, mixins, and functions that significantly enhance CSS development workflow and organization.
 - []()
