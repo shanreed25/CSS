@@ -8,7 +8,7 @@
 }
 ```
 - `position: relative;`
-    -  Critical! Allows the ::after pseudo-element to position relative to the element with the `card-title` class
+    -  Critical! Allows the `::after` pseudo-element to position relative to the element with the `card-title` class
 
 ```
 .card-title::after {
