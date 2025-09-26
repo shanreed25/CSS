@@ -24,3 +24,7 @@
 - [Transitions and Animations]()
 - [CSS Variables (Custom Properties)]()
 - [Preprocessors]()
+
+
+# Concept project
+- [Pseudo Elements](./concept-projects/pseudo-elements/README.md)
