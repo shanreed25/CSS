@@ -1,6 +1,6 @@
 # Pseudo Elements
 
-# Empty Pseudo Element
+### Empty Pseudo Element
 - `pseudo-element.html ` and `styles.css`
 ```
 .card-title {
